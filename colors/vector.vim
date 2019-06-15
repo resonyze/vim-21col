@@ -6,49 +6,51 @@ syntax reset
 let g:colors_name = "vector"
 
 " Vim editor colors
-highlight Normal         ctermfg=7 ctermbg=0 
-highlight Debug          ctermfg=1  
-highlight Directory      ctermfg=4  
-highlight Error          ctermfg=0 ctermbg=1 
-highlight ErrorMsg       ctermfg=1 ctermbg=0 
-highlight Exception      ctermfg=1  
-highlight FoldColumn     ctermfg=6 ctermbg=18 
-highlight Folded         ctermfg=8 ctermbg=18 
-highlight IncSearch      ctermfg=18 ctermbg=16 cterm=none 
-highlight Italic         cterm=none 
-highlight Macro          ctermfg=1  
-highlight MatchParen     ctermfg=8   
-highlight ModeMsg        ctermfg=2  
-highlight MoreMsg        ctermfg=2  
-highlight Question       ctermfg=4  
-highlight Search         ctermfg=18 ctermbg=3   
-highlight Substitute     ctermfg=18 ctermbg=3 cterm=none 
-highlight SpecialKey     ctermfg=8  
-highlight TooLong        ctermfg=1  
-highlight Underlined     ctermfg=1  
-highlight Visual         ctermfg=19 
-highlight VisualNOS      ctermfg=1  
-highlight WarningMsg     ctermfg=1  
-highlight WildMenu       ctermfg=1  
-highlight Title          ctermfg=4 cterm=none 
-highlight Conceal        ctermfg=4 ctermbg=0 
-highlight Cursor         ctermfg=0 ctermbg=7 
-highlight NonText        ctermfg=8  
-highlight LineNr         ctermfg=8 ctermbg=18 
-highlight SignColumn     ctermfg=8 ctermbg=18 
-highlight StatusLine     ctermfg=20 ctermbg=19 cterm=none 
-highlight StatusLineNC   ctermfg=8 ctermbg=18 cterm=none 
-highlight VertSplit      ctermfg=19 ctermbg=19 cterm=none 
-highlight ColorColumn    ctermbg=18 cterm=none 
-highlight CursorColumn   ctermbg=18 cterm=none 
-highlight CursorLine     ctermbg=18 cterm=none 
-highlight CursorLineNr   ctermfg=20 ctermbg=18 
-highlight QuickFixLine   ctermbg=18 cterm=none 
-highlight PMenu          ctermfg=7 ctermbg=18 cterm=none 
-highlight PMenuSel       ctermfg=18 ctermbg=7 
-highlight TabLine        ctermfg=8 ctermbg=18 cterm=none 
-highlight TabLineFill    ctermfg=8 ctermbg=18 cterm=none 
-highlight TabLineSel     ctermfg=2 ctermbg=18 cterm=none 
+highlight Normal            ctermfg=7 ctermbg=0 
+highlight Debug             ctermfg=1  
+highlight Directory         ctermfg=4  
+highlight Error             ctermfg=0 ctermbg=1 
+highlight ErrorMsg          ctermfg=1 ctermbg=0 
+highlight Exception         ctermfg=1  
+highlight FoldColumn        ctermfg=6 ctermbg=18 
+highlight Folded            ctermfg=8 ctermbg=18 
+highlight IncSearch         ctermfg=18 ctermbg=16 cterm=none 
+highlight Italic            cterm=none 
+highlight Macro             ctermfg=1  
+highlight MatchParen        ctermfg=8   
+highlight ModeMsg           ctermfg=2  
+highlight MoreMsg           ctermfg=2  
+highlight Question          ctermfg=4  
+highlight Search            ctermfg=18 ctermbg=3   
+highlight Substitute        ctermfg=18 ctermbg=3 cterm=none 
+highlight SpecialKey        ctermfg=8  
+highlight TooLong           ctermfg=1  
+highlight Underlined        ctermfg=1  
+highlight Visual            ctermfg=19 
+highlight VisualNOS         ctermfg=1  
+highlight WarningMsg        ctermfg=1  
+highlight WildMenu          ctermfg=1  
+highlight Title             ctermfg=4 cterm=none 
+highlight Conceal           ctermfg=4 ctermbg=0 
+highlight Cursor            ctermfg=0 ctermbg=7 
+highlight NonText           ctermfg=8  
+highlight LineNr            ctermfg=8 ctermbg=18 
+highlight SignColumn        ctermfg=8 ctermbg=18 
+highlight StatusLine        ctermfg=20 ctermbg=19 cterm=none 
+highlight StatusLineNC      ctermfg=8 ctermbg=18 cterm=none 
+highlight VertSplit         ctermfg=19 ctermbg=19 cterm=none 
+highlight ColorColumn       ctermbg=18 cterm=none 
+highlight CursorColumn      ctermbg=18 cterm=none 
+highlight CursorLine        ctermbg=18 cterm=none 
+highlight CursorLineNr      ctermfg=20 ctermbg=18 
+highlight QuickFixLine      ctermbg=18 cterm=none 
+highlight PMenu             ctermfg=7 ctermbg=18 cterm=none 
+highlight PMenuSel          ctermfg=18 ctermbg=7 
+highlight TabLine           ctermfg=8 ctermbg=18 cterm=none 
+highlight TabLineFill       ctermfg=8 ctermbg=18 cterm=none 
+highlight TabLineSel        ctermfg=2 ctermbg=18 cterm=none 
+highlight StatusLineTerm    ctermfg=20 ctermbg=19
+highlight StatusLineTermNC  ctermfg=8 ctermbg=18
 
 "Standard syntax highlighting
 highlight Boolean       ctermfg=16  
