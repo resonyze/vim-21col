@@ -29,7 +29,7 @@ highlight Underlined        ctermfg=1
 highlight Visual            ctermfg=19 
 highlight VisualNOS         ctermfg=1  
 highlight WarningMsg        ctermfg=1  
-highlight WildMenu          ctermfg=1  
+highlight WildMenu          ctermfg=1 ctermbg=19 cterm=Bold
 highlight Title             ctermfg=4 cterm=none 
 highlight Conceal           ctermfg=4 ctermbg=0 
 highlight Cursor            ctermfg=0 ctermbg=7 
